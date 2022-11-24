@@ -1,0 +1,6 @@
+node_modules/*
+out/*
+.yarnrc
+vsc-extension-quickstart.md
+yarn-error.log
+yarn.lock

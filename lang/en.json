@@ -1,0 +1,11 @@
+{
+	"email": "Email",
+	"phone": "Phone",
+	"userManagement": {
+		"name": "Name",
+		"phone": "Phone",
+		"address": {
+			"line1": "Line 1"
+		}
+	}
+}
