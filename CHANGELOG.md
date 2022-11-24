@@ -1,3 +1,6 @@
+## 1.1.0
+- formal edition
+
 ## 1.0.8, 1.0.7, 1.0.6
 - solve read me image not found
 
