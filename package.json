@@ -3,12 +3,13 @@
     "displayName": "Go Translate",
     "description": "language file generator",
     "publisher": "Yolkk",
-    "version": "1.0.6",
+    "version": "1.0.8",
     "icon": "media/icon/goTranslateLogo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/kklwh/vscode-go-translate.git"
     },
+    "license": "MIT",
     "engines": {
         "vscode": "^1.72.0"
     },

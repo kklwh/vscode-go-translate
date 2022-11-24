@@ -1,3 +1,6 @@
+## 1.0.8, 1.0.7, 1.0.6
+- solve read me image not found
+
 ## 1.0.5
 - support by folder mode (example: laravel lang folder)
 - support show color green (create), yellow (edit), red (delete) in left side of key
