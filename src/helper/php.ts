@@ -84,7 +84,7 @@ export class PHP {
         aryStr = aryStr.replace("<?php", "")
                     .replace("?>", "")
                     .replace("return", "")
-                    .replace(";", "")
+                    .replace(/](\r|\n)*;/, "]")
                     .trim()
 
         if(aryStr[0] != "[" || aryStr[aryStr.length-1] != "]") throw new Error("Invalid php format, cannot found character [ or ]");

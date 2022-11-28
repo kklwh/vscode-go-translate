@@ -1,3 +1,6 @@
+## 1.1.2
+- solve php parse bug (semicolon)
+
 ## 1.1.1
 - formal edition
 

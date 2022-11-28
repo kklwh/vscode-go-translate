@@ -3,7 +3,7 @@
     "displayName": "Go Translate",
     "description": "language file generator",
     "publisher": "Yolkk",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "icon": "media/icon/goTranslateLogo.png",
     "repository": {
         "type": "git",
